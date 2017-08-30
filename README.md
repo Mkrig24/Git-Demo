@@ -6,3 +6,6 @@ This is the dev branch.
 
 
 MAGIC. 
+
+
+THis is Dev branch - creating merge conflict step 1. 
