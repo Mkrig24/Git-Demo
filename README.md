@@ -14,3 +14,4 @@ THis is Dev branch - creating merge conflict step 1.
 
 This is the Master branch. Adding a line that conflicts with dev. Step 2 in creating conflict. 
 
+This is the LAST LINE from dev. 
